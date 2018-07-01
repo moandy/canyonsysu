@@ -361,3 +361,25 @@ INFO: 2018/06/29 16:02:09 log.go:45: Start up Info log
 INFO: 2018/06/30 09:59:41 log.go:45: Start up Info log
 INFO: 2018/06/30 10:00:48 log.go:45: Start up Info log
 INFO: 2018/06/30 10:01:30 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/06/30 10:20:41 log.go:45: Start up Info log
+INFO: 2018/06/30 10:21:11 log.go:45: Start up Info log
+INFO: 2018/06/30 21:04:43 log.go:45: Start up Info log
+INFO: 2018/06/30 21:23:09 restaurant_handler.go:55: Get the Restaurant by name!
+INFO: 2018/06/30 21:26:02 restaurant_handler.go:55: Get the Restaurant by name!
+INFO: 2018/06/30 21:26:27 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/06/30 21:29:10 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/06/30 21:29:23 orderfood_handler.go:52: No Order Now!
+INFO: 2018/06/30 21:29:47 orderfood_handler.go:52: No Order Now!
+INFO: 2018/06/30 21:31:56 orderfood_handler.go:36: 添加订单成功!
+INFO: 2018/06/30 21:32:44 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:33:06 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:35:49 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:36:47 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:36:52 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:37:43 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:37:44 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:37:47 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/06/30 21:39:44 comment_handler.go:80: List All Tags!
+INFO: 2018/06/30 21:48:36 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/01 14:33:21 log.go:46: Start up Info log
+INFO: 2018/07/01 14:33:53 log.go:46: Start up Info log
