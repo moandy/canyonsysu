@@ -205,7 +205,7 @@ func CreateComment(v *entity.Comment) error {
 
 func QueryComment(filter CommentFilter) []entity.Comment {
 	var comment []entity.Comment
-	mfData := findAllComments()
+	mfData := findAllCommentsDesc()
 	for _, v := range mfData {
 		if filter(&v) {
 			comment = append(comment, v)
@@ -233,4 +233,20 @@ func QueryMenufoodTags() (int, []string) {
 
 func QueryCommentByCount(begin, offset int) ([]entity.Comment) {
 	return findCommentByCount(begin, offset)
+}
+
+func OrderfoodToOrderfoodIns(ins []entity.Orderfood) []entity.OrderfoodIns {
+	var t []entity.OrderfoodIns
+	for _, value := range ins {
+		var a entity.OrderfoodIns
+		tmp := findMenufoodById(value.MenufoodID)
+		a.ID = value.ID
+		a.MenufoodID = value.MenufoodID
+		a.Order_id = value.Order_id
+		a.Order_num = value.Order_num
+		a.MenufoodName = tmp.Name
+		a.Price = tmp.Price
+		t = append(t, a)
+	}
+	return t
 }

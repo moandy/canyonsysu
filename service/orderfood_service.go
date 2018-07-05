@@ -47,7 +47,7 @@ func ListAllOrders() []entity.Order_ins {
 		t[i].Total = order[i].Total
 		t[i].Time = order[i].Time
 		t[i].Customer_phone = order[i].Customer_phone
-		t[i].Order_contain = *db.QueryOrderfoodByID(order[i].ID)
+		t[i].Order_contain = db.OrderfoodToOrderfoodIns(*db.QueryOrderfoodByID(order[i].ID))
 		t[i].Order_num = len(t[i].Order_contain)
 	}
 	return t
@@ -71,7 +71,7 @@ func GetOrderByID(id int) *entity.Order_ins {
 	t.Total = order.Total
 	t.Time = order.Time
 	t.Customer_phone = order.Customer_phone
-	t.Order_contain = *db.QueryOrderfoodByID(order.ID)
+	t.Order_contain = db.OrderfoodToOrderfoodIns(*db.QueryOrderfoodByID(order.ID))
 	t.Order_num = len(t.Order_contain)
 	return &t
 }
@@ -85,7 +85,7 @@ func GetOrderByPhone(phone string) []entity.Order_ins {
 		t[i].Total = order[i].Total
 		t[i].Time = order[i].Time
 		t[i].Customer_phone = order[i].Customer_phone
-		t[i].Order_contain = *db.QueryOrderfoodByID(order[i].ID)
+		t[i].Order_contain = db.OrderfoodToOrderfoodIns(*db.QueryOrderfoodByID(order[i].ID))
 		t[i].Order_num = len(t[i].Order_contain)
 	}
 	return t

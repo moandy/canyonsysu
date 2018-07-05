@@ -383,3 +383,176 @@ INFO: 2018/06/30 21:39:44 comment_handler.go:80: List All Tags!
 INFO: 2018/06/30 21:48:36 orderfood_handler.go:55: List ALl Orders!
 INFO: 2018/07/01 14:33:21 log.go:46: Start up Info log
 INFO: 2018/07/01 14:33:53 log.go:46: Start up Info log
+INFO: 2018/07/01 16:17:04 log.go:46: Start up Info log
+INFO: 2018/07/01 16:21:05 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 14:59:29 log.go:46: Start up Info log
+INFO: 2018/07/04 15:04:45 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:05:02 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:05:16 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:05:18 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:05:22 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:06:14 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:10:38 log.go:46: Start up Info log
+INFO: 2018/07/04 15:10:44 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:15:22 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:15:26 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:16:05 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:16:08 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:16:52 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:16:57 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:20:42 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:20:45 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:20:56 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:21:01 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:21:17 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:21:21 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:22:09 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:22:56 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:22:59 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:24:20 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:24:38 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:25:15 log.go:46: Start up Info log
+INFO: 2018/07/04 15:25:20 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:25:27 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:25:30 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:25:43 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:26:04 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:26:13 log.go:46: Start up Info log
+INFO: 2018/07/04 15:26:17 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:26:30 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:26:34 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:26:45 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:27:15 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:27:39 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:27:52 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:28:09 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:30:47 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:30:55 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:32:35 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:34:47 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:35:15 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:35:55 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:36:22 menufood_handler.go:37: 添加 雪碧 食品成功
+INFO: 2018/07/04 15:36:25 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:36:37 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:36:40 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:36:43 menufood_handler.go:142: Delete Menufood by ID!
+INFO: 2018/07/04 15:36:43 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:36:44 menufood_handler.go:142: Delete Menufood by ID!
+INFO: 2018/07/04 15:36:44 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:36:46 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:37:53 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:38:28 menufood_handler.go:37: 添加 可乐 食品成功
+INFO: 2018/07/04 15:38:31 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:41:32 menufood_handler.go:37: 添加 冷饮 食品成功
+INFO: 2018/07/04 15:41:49 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:42:51 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:42:53 menufood_handler.go:142: Delete Menufood by ID!
+INFO: 2018/07/04 15:42:53 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:42:54 menufood_handler.go:142: Delete Menufood by ID!
+INFO: 2018/07/04 15:42:54 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:42:55 menufood_handler.go:142: Delete Menufood by ID!
+INFO: 2018/07/04 15:42:55 menufood_handler.go:66: There isn't any menufood now!
+INFO: 2018/07/04 15:42:56 menufood_handler.go:66: There isn't any menufood now!
+INFO: 2018/07/04 15:43:16 menufood_handler.go:66: There isn't any menufood now!
+INFO: 2018/07/04 15:44:07 menufood_handler.go:66: There isn't any menufood now!
+INFO: 2018/07/04 15:44:28 menufood_handler.go:66: There isn't any menufood now!
+INFO: 2018/07/04 15:45:31 menufood_handler.go:37: 添加 可乐 食品成功
+INFO: 2018/07/04 15:45:34 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:47:00 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:47:02 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:48:16 orderfood_handler.go:55: List ALl Orders!
+INFO: 2018/07/04 15:48:32 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 15:48:37 restaurant_handler.go:55: Get the Restaurant by name!
+INFO: 2018/07/04 15:50:37 log.go:46: Start up Info log
+INFO: 2018/07/04 15:51:52 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 15:52:47 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 15:52:47 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 15:52:50 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 15:52:50 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 15:56:50 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 15:56:50 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 15:57:12 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 15:57:12 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 15:58:54 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 15:58:54 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:06:37 menufood_handler.go:70: Get All Menufoods!
+INFO: 2018/07/04 16:07:49 log.go:46: Start up Info log
+INFO: 2018/07/04 16:08:10 log.go:46: Start up Info log
+INFO: 2018/07/04 16:08:22 log.go:46: Start up Info log
+INFO: 2018/07/04 16:08:39 log.go:46: Start up Info log
+INFO: 2018/07/04 16:09:07 log.go:46: Start up Info log
+INFO: 2018/07/04 16:14:25 log.go:46: Start up Info log
+INFO: 2018/07/04 16:15:26 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:15:26 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:17:15 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:17:15 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:18:09 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:18:09 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:20:17 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:20:17 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:21:36 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:21:36 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:21:41 orderfood_handler.go:36: 添加订单成功!
+INFO: 2018/07/04 16:30:31 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:30:31 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:30:38 orderfood_handler.go:36: 添加订单成功!
+INFO: 2018/07/04 16:31:18 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:31:18 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:32:42 log.go:46: Start up Info log
+INFO: 2018/07/04 16:32:50 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:32:50 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:33:36 log.go:46: Start up Info log
+INFO: 2018/07/04 16:34:40 log.go:46: Start up Info log
+INFO: 2018/07/04 16:34:43 orderfood_handler.go:45: 添加订单成功!
+INFO: 2018/07/04 16:35:03 log.go:46: Start up Info log
+INFO: 2018/07/04 16:35:06 orderfood_handler.go:45: 添加订单成功!
+INFO: 2018/07/04 16:37:12 log.go:46: Start up Info log
+INFO: 2018/07/04 16:37:18 orderfood_handler.go:47: 添加订单成功!
+INFO: 2018/07/04 16:37:47 log.go:46: Start up Info log
+INFO: 2018/07/04 16:37:55 orderfood_handler.go:48: 添加订单成功!
+INFO: 2018/07/04 16:39:21 orderfood_handler.go:48: 添加订单成功!
+INFO: 2018/07/04 16:40:01 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:40:01 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:40:05 orderfood_handler.go:48: 添加订单成功!
+INFO: 2018/07/04 16:43:27 log.go:46: Start up Info log
+INFO: 2018/07/04 16:43:28 orderfood_handler.go:49: 添加订单成功!
+INFO: 2018/07/04 16:43:49 log.go:46: Start up Info log
+INFO: 2018/07/04 16:43:50 orderfood_handler.go:49: 添加订单成功!
+INFO: 2018/07/04 16:44:57 log.go:46: Start up Info log
+INFO: 2018/07/04 16:45:04 orderfood_handler.go:51: 添加订单成功!
+INFO: 2018/07/04 16:48:46 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:48:46 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:49:00 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:49:00 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:49:07 orderfood_handler.go:51: 添加订单成功!
+INFO: 2018/07/04 16:50:34 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:50:34 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:50:38 orderfood_handler.go:51: 添加订单成功!
+INFO: 2018/07/04 16:50:57 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:50:57 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:51:02 orderfood_handler.go:51: 添加订单成功!
+INFO: 2018/07/04 16:51:36 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:51:36 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:51:40 orderfood_handler.go:51: 添加订单成功!
+INFO: 2018/07/04 16:52:00 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 16:52:00 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 16:52:04 orderfood_handler.go:51: 添加订单成功!
+INFO: 2018/07/04 17:09:07 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 17:09:07 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 17:11:06 log.go:46: Start up Info log
+INFO: 2018/07/04 17:11:15 orderfood_handler.go:53: 添加订单成功!
+INFO: 2018/07/04 17:12:55 log.go:46: Start up Info log
+INFO: 2018/07/04 17:12:56 orderfood_handler.go:53: 添加订单成功!
+INFO: 2018/07/04 17:13:26 log.go:46: Start up Info log
+INFO: 2018/07/04 17:13:33 orderfood_handler.go:53: 添加订单成功!
+INFO: 2018/07/04 17:15:08 orderfood_handler.go:53: 添加订单成功!
+INFO: 2018/07/04 17:19:01 log.go:46: Start up Info log
+INFO: 2018/07/04 17:19:12 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 17:19:12 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 17:19:35 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 17:19:35 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 17:19:57 log.go:46: Start up Info log
+INFO: 2018/07/04 17:19:59 restaurant_handler.go:68: Get All Restaurants!
+INFO: 2018/07/04 17:19:59 comment_handler.go:80: List All Tags!
+INFO: 2018/07/04 17:19:59 orderfood_handler.go:136: Get Order by Phone!

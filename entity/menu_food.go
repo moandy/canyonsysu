@@ -12,7 +12,7 @@ type Menufood struct {
 
 type Menufood_ins struct {
 	Categorys string `json:"categorys"`
-	Menufoods []Menufood
+	Menufoods []Menufood   `json:"menufoods"`
 }
 
 func (u *Menufood) Copy() *Menufood {

@@ -60,3 +60,13 @@ func findCommentByCount(begin int, offset int) []entity.Comment {
 	}
 	return vec
 }
+
+func findAllCommentsDesc() []entity.Comment {
+	sql := "select * from comment order by i_d desc"
+	vec := make([]entity.Comment, 0)
+	err := engine.Sql(sql).Find(&vec)
+	if err != nil {
+		loghelper.Error.Println(err)
+	}
+	return vec
+}

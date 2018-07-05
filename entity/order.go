@@ -12,13 +12,13 @@ type Orders struct {
 //"0000-00-00/00:00"
 
 type Order_ins struct {
-	ID             int         `json:"order_id"`
-	Table_id       int         `json:"table_id"`
-	Order_num      int         `json:"order_num"`
-	Order_contain  []Orderfood `json:"order_contain"`
-	Total          float64     `json:"total"`
-	Customer_phone string      `json:"customer_phone"`
-	Time           string      `json:"order_time"`
+	ID             int         		`json:"order_id"`
+	Table_id       int         		`json:"table_id"`
+	Order_num      int         		`json:"order_num"`
+	Order_contain  []OrderfoodIns 	`json:"order_contain"`
+	Total          float64     		`json:"total"`
+	Customer_phone string      		`json:"customer_phone"`
+	Time           string      		`json:"order_time"`
 }
 
 type Orderfood_ins struct {

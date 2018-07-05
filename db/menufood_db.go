@@ -54,3 +54,15 @@ func updateMenufood(origin, modify *entity.Menufood) error {
 	}
 	return nil
 }
+
+func findMenufoodById(id int) *entity.Menufood {
+	u := &entity.Menufood{ID: id}
+	has, err := engine.Get(u)
+	if err != nil {
+		loghelper.Error.Println("findMenufoodByID Error:", err)
+	}
+	if has {
+		return u
+	}
+	return nil
+}

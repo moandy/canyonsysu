@@ -4,6 +4,7 @@ import (
 	"github.com/moandy/canyonsysu/entity"
 	_ "github.com/go-sql-driver/mysql" // for init
 	"github.com/go-xorm/xorm"
+	
 )
 
 var engine *xorm.Engine

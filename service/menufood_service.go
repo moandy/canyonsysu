@@ -28,7 +28,7 @@ func ListAllMenufoods() []entity.Menufood {
 	})
 }
 
-func ListAllMenufoodsThroughTags() []entity.Menufood_ins {
+func ListAllMenufoodsThroughTags() [][]entity.Menufood {
 	menufoods := db.QueryMenufood(func(u *entity.Menufood) bool {
 		return true
 	})
@@ -38,7 +38,7 @@ func ListAllMenufoodsThroughTags() []entity.Menufood_ins {
 		str = append(str, value.Categorys)
 	}
 	//str := entity.FindAllCategorys()
-	var res []entity.Menufood_ins
+	var res [][]entity.Menufood
 	for _, tag := range str {
 		var a []entity.Menufood
 		for _, value := range menufoods {
@@ -46,10 +46,7 @@ func ListAllMenufoodsThroughTags() []entity.Menufood_ins {
 				a = append(a, value)
 			}
 		}
-		var b entity.Menufood_ins
-		b.Categorys = tag
-		b.Menufoods = a
-		res = append(res, b)
+		res = append(res, a)
 	}
 	return res
 }
